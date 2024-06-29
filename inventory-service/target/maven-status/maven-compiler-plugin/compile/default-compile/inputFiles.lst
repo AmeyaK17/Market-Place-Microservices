@@ -1,0 +1,5 @@
+/Users/ameyakale/Microservices/MarketPlace/inventory-service/src/main/java/com/ameya/inventory_service/InventoryServiceApplication.java
+/Users/ameyakale/Microservices/MarketPlace/inventory-service/src/main/java/com/ameya/inventory_service/controller/InventoryController.java
+/Users/ameyakale/Microservices/MarketPlace/inventory-service/src/main/java/com/ameya/inventory_service/model/Inventory.java
+/Users/ameyakale/Microservices/MarketPlace/inventory-service/src/main/java/com/ameya/inventory_service/repository/InventoryRepository.java
+/Users/ameyakale/Microservices/MarketPlace/inventory-service/src/main/java/com/ameya/inventory_service/service/InventoryService.java

@@ -1,0 +1,5 @@
+com/ameya/inventory_service/model/Inventory.class
+com/ameya/inventory_service/repository/InventoryRepository.class
+com/ameya/inventory_service/service/InventoryService.class
+com/ameya/inventory_service/controller/InventoryController.class
+com/ameya/inventory_service/InventoryServiceApplication.class

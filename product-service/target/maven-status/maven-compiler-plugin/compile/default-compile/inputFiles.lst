@@ -1,0 +1,7 @@
+/Users/ameyakale/Microservices/MarketPlace/product-service/src/main/java/com/ameya/product_service/ProductServiceApplication.java
+/Users/ameyakale/Microservices/MarketPlace/product-service/src/main/java/com/ameya/product_service/controller/ProductController.java
+/Users/ameyakale/Microservices/MarketPlace/product-service/src/main/java/com/ameya/product_service/dto/ProductRequest.java
+/Users/ameyakale/Microservices/MarketPlace/product-service/src/main/java/com/ameya/product_service/dto/ProductResponse.java
+/Users/ameyakale/Microservices/MarketPlace/product-service/src/main/java/com/ameya/product_service/model/Product.java
+/Users/ameyakale/Microservices/MarketPlace/product-service/src/main/java/com/ameya/product_service/repository/ProductRepository.java
+/Users/ameyakale/Microservices/MarketPlace/product-service/src/main/java/com/ameya/product_service/service/ProductService.java

@@ -1,0 +1,10 @@
+com/ameya/product_service/repository/ProductRepository.class
+com/ameya/product_service/ProductServiceApplication.class
+com/ameya/product_service/model/Product$ProductBuilder.class
+com/ameya/product_service/dto/ProductRequest.class
+com/ameya/product_service/service/ProductService.class
+com/ameya/product_service/dto/ProductResponse$ProductResponseBuilder.class
+com/ameya/product_service/controller/ProductController.class
+com/ameya/product_service/dto/ProductRequest$ProductRequestBuilder.class
+com/ameya/product_service/model/Product.class
+com/ameya/product_service/dto/ProductResponse.class
