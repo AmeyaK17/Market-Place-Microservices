@@ -9,6 +9,8 @@
 
 # Ignore all files in a specific directory and its subdirectories
 # /dirname/**
+/mysql_keycloak_data/**
+/mongo-data/**
 
 # Ignore all files in the target directory (common for Maven or Gradle projects)
 /target/
