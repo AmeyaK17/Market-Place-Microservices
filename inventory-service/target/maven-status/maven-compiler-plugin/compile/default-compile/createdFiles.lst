@@ -1,5 +1,7 @@
-com/ameya/inventory_service/model/Inventory.class
 com/ameya/inventory_service/repository/InventoryRepository.class
-com/ameya/inventory_service/service/InventoryService.class
-com/ameya/inventory_service/controller/InventoryController.class
 com/ameya/inventory_service/InventoryServiceApplication.class
+com/ameya/inventory_service/model/Inventory.class
+com/ameya/inventory_service/service/InventoryService.class
+com/ameya/inventory_service/dto/InventoryResponse.class
+com/ameya/inventory_service/dto/InventoryResponse$InventoryResponseBuilder.class
+com/ameya/inventory_service/controller/InventoryController.class
